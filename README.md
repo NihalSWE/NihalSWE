@@ -36,7 +36,7 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,php,java,js,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,php,js,c,html,css" />
 </p>
 
 **Frameworks & Libraries**
@@ -46,7 +46,7 @@
 
 **Databases & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git" />
 </p>
 
 **Hardware & Tools**
