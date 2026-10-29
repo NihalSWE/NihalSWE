@@ -1,16 +1,34 @@
-# Hi there, I'm Md. Mahamudur Rahman 👋
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=200&section=header&text=Md.%20Mahamudur%20Rahman&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Django%20%E2%80%A2%20Python%20%E2%80%A2%20REST%20APIs&descAlignY=58&descAlign=50" width="100%" />
+</div>
 
-Passionate Software Engineer specializing in scalable web development, backend architectures, and enterprise systems.
+<!-- ANIMATED TYPING TEXT -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+%26+Django+Specialist;Building+Scalable+Backends;ERP+%26+REST+API+Architect" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- PROFILE COUNTERS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NihalSWE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NihalSWE?label=Followers&style=flat&color=1877F2&logo=github" alt="Followers" />
+</div>
+
+<br/>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Current Focus:** Building an HRM & Inventory Management System with ZKTeco biometric attendance integration
-- 🐍 **Backend:** Developing clean, maintainable web applications using Python & Django
-- 🐘 **Web Architecture:** Designing robust REST APIs, ERP systems, and relational databases
-- 💬 **Ask Me About:** Python, Django, REST APIs, or Database Design
-- 📂 **Portfolio & Repositories:** [github.com/NihalSWE](https://github.com/NihalSWE)
-- 📬 **Get in Touch:** Reach me directly via LinkedIn or email
+
+* 🔭 Building an **HRM & Inventory Management System** with ZKTeco attendance integration
+* 🐍 Developing scalable backends & web apps with **Python & Django**
+* 🐘 Building clean RESTful architectures with **PHP & Laravel**
+* 💡 Interested in **ERP systems, database design, REST APIs, and IoT**
+* 💬 Ask me about **Django, REST APIs, or Database Architecture**
+* 📂 Explore all my code and repos right here on [github.com/NihalSWE](https://github.com/NihalSWE)
+* 📬 Connect with me at **fazlerabbi.igl@gmail.com**
 
 ---
 
@@ -18,44 +36,57 @@ Passionate Software Engineer specializing in scalable web development, backend a
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=py,php,java,js,c,html,css" />
 </p>
 
-**Frameworks & Backends**
+**Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,tailwind" />
 </p>
 
 **Databases & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux" />
+</p>
+
+**Hardware & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,postman,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NihalSWE&show_icons=true&theme=radical" alt="NihalSWE's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalSWE&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalSWE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=NihalSWE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/md-mahamudur-rahman-868311275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:fazlerabbi.igl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=90&section=footer" width="100%" />
+</div>
